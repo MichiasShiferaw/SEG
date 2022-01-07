@@ -1,0 +1,115 @@
+Hello Folks
+
+---------------Testing Turn Key and Press Right Pedal--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was on with the engine running and so the key was turned and the right pedal was pressed so, the buggy will remain at park.
+
+---------------Testing Press Left Pedal Twice--------------
+Initially the buggy was at Null and so the left pedal was pressed twice so, the buggy will remain at Null.
+Initially the buggy was at Null and so the left pedal was pressed twice so, the buggy will remain at Null.
+Initially the buggy was at Null and so the left pedal was pressed twice so, the buggy will remain at Null.
+
+---------------Test GetState--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed so, the buggy will be accelerating backwards.
+Initially the buggy was at acceleratebackwards and so the left and right pedal was pressed(braking) so, the buggy will remain at acceleratebackwards.
+Initially the buggy was at acceleratebackwards and so the left pedal was pressed twice so, the buggy will be slowing(decelerating) backwards.
+Initially the buggy was at deacceleratebackwards and so the left and right pedal was pressed(braking) so, the buggy is braking.
+Initially the buggy was at brake and the pedals were released so,  the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left and right pedal was pressed(braking) so, the buggy will remain at neutral.
+Initially the buggy was at neutral and the pedals were released so,  the buggy will remain at neutral.
+Initially the buggy was at neutral and so the right pedal was once so, the buggy will be parked.
+
+---------------Test Rover--------------
+
+---------------Testing Press Right Pedal ONCE--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left and right pedal was pressed(braking) so, the buggy will remain at park.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed once so, the buggy will be accelerating forward.
+Initially the buggy was at accelerateforward and so the right pedal was pressed once so, the buggy will be moving at a constant speed forward:)
+
+---------------Testing Press Left Pedal ONCE--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed once so, the buggy will be accelerating forward.
+
+---------------Testing Press Right Pedal Twice--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left and right pedal was pressed(braking) so, the buggy will remain at park.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed once so, the buggy will be accelerating forward.
+Initially the buggy was at accelerateforward and so the right pedal was pressed twice so, the buggy will be slowing(decelerating) forward. 
+
+---------------Test Get State Vehicule On--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed so, the buggy will be accelerating backwards.
+Initially the buggy was at acceleratebackwards and so the left and right pedal was pressed(braking) so, the buggy will remain at acceleratebackwards.
+Initially the buggy was at acceleratebackwards and so the right pedal was pressed once so, the buggy will be moving at a constant speed backwards. 
+Initially the buggy was at constantspeedbackwards and so the left and right pedal was pressed(braking) so, the buggy is braking.
+Initially the buggy was at brake and the pedals were released so,  the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the right pedal was once so, the buggy will be parked.
+Initially the buggy was at park and so the key was removed so, the buggy is off. 
+Engine Off!
+
+---------------Test StateFullName--------------
+
+---------------Testing Pressing Button 1 and Holding Both Pedals--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left and right pedal was pressed(braking) so, the buggy will remain at park.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed once so, the buggy will be accelerating forward.
+Initially the buggy was at accelerateforward and so the right pedal was pressed once so, the buggy will be moving at a constant speed forward:)
+Initially the buggy was at constantspeedforward and so both pedals were pressed along with pushing button 1 once so, the buggy is turning :)
+Initially the buggy was at turn and the pedals were released so,  the buggy will remain at turn.
+Initially the buggy was at turn and so the right pedal was released so,the buggy is set back to driving forward at a constant speed.
+
+---------------Testing Release Right Pedal--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left and right pedal was pressed(braking) so, the buggy will remain at park.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed once so, the buggy will be accelerating forward.
+Initially the buggy was at accelerateforward and so the right pedal was pressed once so, the buggy will be moving at a constant speed forward:)
+Initially the buggy was at constantspeedforward and so both pedals were pressed along with pushing button 1 once so, the buggy is turning :)
+Initially the buggy was at turn and the pedals were released so,  the buggy will remain at turn.
+Initially the buggy was at turn and so the right pedal was released so,the buggy is set back to driving forward at a constant speed.
+
+---------------Testing Release Pedals--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed so, the buggy will be accelerating backwards.
+Initially the buggy was at acceleratebackwards and so the left and right pedal was pressed(braking) so, the buggy will remain at acceleratebackwards.
+Initially the buggy was at acceleratebackwards and so the left pedal was pressed twice so, the buggy will be slowing(decelerating) backwards.
+Initially the buggy was at deacceleratebackwards and so the left and right pedal was pressed(braking) so, the buggy is braking.
+Initially the buggy was at brake and the pedals were released so,  the buggy will be in the neutral gear.
+
+---------------Testing Press Left Pedal --------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed so, the buggy will be accelerating backwards.
+
+---------------Testing Press Right Pedal--------------
+Initially the buggy was at Null and so the right pedal was once so, the buggy will remain at Null.
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and the pedals were released so,  the buggy will remain at park.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the right pedal was once so, the buggy will be parked.
+
+---------------Testing Remove Key--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the right pedal was once so, the buggy will be parked.
+Initially the buggy was at park and so the key was removed so, the buggy is off. 
+Engine Off!
+
+---------------Testing Press Left Right Pedal--------------
+Initially the buggy was still with the engine off and so the key was turned and the right pedal was pressed so, the buggy will be parked.
+Initially the buggy was at park and so the left and right pedal was pressed(braking) so, the buggy will remain at park.
+Initially the buggy was at park and so the left pedal was pressed twice so, the buggy will be in the neutral gear.
+Initially the buggy was at neutral and so the left pedal was pressed once so, the buggy will be accelerating forward.
+Initially the buggy was at accelerateforward and so the left and right pedal was pressed(braking) so, the buggy is braking.
+
+Grade for Test (out of a possible 110): 110.0
+Number of Failed Tests: 0.0
